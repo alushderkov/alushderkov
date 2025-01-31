@@ -19,4 +19,5 @@ cause working with tech without a soul is a horror show<br><br>
 [<img src="https://github.com/user-attachments/assets/a0247f4c-87cc-40db-bdfa-b0c86da02dae" alt="md" height="67"/>](https://ru.wikipedia.org/wiki/Markdown)<br><br>
 
 ## Interaction
-&nbsp;&nbsp;&nbsp;Check the profile description for all social media links😽
+&nbsp;&nbsp;&nbsp;Check the profile description for all  
+&nbsp;&nbsp;&nbsp;social media links😽
