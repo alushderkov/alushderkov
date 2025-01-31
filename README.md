@@ -10,7 +10,7 @@ cause working with tech without a soul is a horror show<br><br>
 &nbsp;&nbsp;&nbsp; $--$ apps: Canva, Figma, Visio;  
 &nbsp;&nbsp;&nbsp; $--$ records management: Word, LaTeX;  
 &nbsp;&nbsp;&nbsp; $--$ English B1;  
-
+<br><br>
 &nbsp;&nbsp;&nbsp;[<img src="https://github.com/user-attachments/assets/a895d3e5-f216-4c11-9c1c-ab0dab3f2fa7" alt="HTML" height="80"/>](https://developer.mozilla.org/ru/docs/Web/HTML)&nbsp;&nbsp;
 [<img src="https://github.com/user-attachments/assets/dd564690-d410-4eea-9a03-d768a53458d7" alt="CSS" height="80"/>](https://developer.mozilla.org/ru/docs/Web/CSS)&nbsp;&nbsp;
 [<img src="https://github.com/user-attachments/assets/9620fcaf-4813-4727-b325-fc941e33789e" alt="JSON" height="80"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)&nbsp;&nbsp;&nbsp;
