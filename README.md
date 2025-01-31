@@ -4,12 +4,12 @@ My plans are to make the words *frontend* and *art* equivalent
 cause working with tech without a soul is a horror show<br><br>
 
 ## Expertise
-  * frontend: HTML, CSS (SCSS), JavaScript (JSON), Markdown;  
-  * basic backend skills: Node.js, WebSocket, Rest APIs, MySQL;  
+  * frontend: HTML, CSS (SCSS), JavaScript (JSON), Markdown  
+  * basic backend skills: Node.js, WebSocket, Rest APIs, MySQL  
   * algorithms and data structures, OOP, Git/GitHub  
-  * apps: Canva, Figma, Visio;  
-  * records management: Word, LaTeX;  
-  * English B1;<br><br>
+  * apps: Canva, Figma, Visio  
+  * records management: Word, LaTeX  
+  * English B1<br><br>
 
 &nbsp;&nbsp;&nbsp;[<img src="https://github.com/user-attachments/assets/a895d3e5-f216-4c11-9c1c-ab0dab3f2fa7" alt="HTML" height="80"/>](https://developer.mozilla.org/ru/docs/Web/HTML)&nbsp;&nbsp;
 [<img src="https://github.com/user-attachments/assets/dd564690-d410-4eea-9a03-d768a53458d7" alt="CSS" height="80"/>](https://developer.mozilla.org/ru/docs/Web/CSS)&nbsp;&nbsp;
