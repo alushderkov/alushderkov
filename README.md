@@ -5,7 +5,7 @@ cause working with tech without a soul is a horror show<br><br>
 
 ## Expertise
   * frontend: HTML, CSS (SCSS), JavaScript (JSON), Markdown  
-  * basic backend skills: Node.js, WebSocket, Rest APIs, MySQL, Java  
+  * basic backend skills: Node.js, WebSocket, Rest APIs, Java, MySQL 
   * algorithms and data structures, OOP, Git/GitHub  
   * apps: Canva, Figma, Visio  
   * records management: Word, LaTeX  
