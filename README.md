@@ -4,7 +4,7 @@ My plans are to make the words *frontend* and *art* equivalent
 cause working with tech without a soul is a horror show<br><br>
 
 ## Expertise
-  * frontend: HTML, CSS (SCSS), JavaScript (JSON), Markdown  
+  * frontend: HTML, Markdown, CSS (SCSS), JavaScript (JSON)  
   * basic backend skills: Node.js, WebSocket, Rest APIs, Java, MySQL 
   * algorithms and data structures, OOP, Git/GitHub  
   * apps: Canva, Figma, Visio  
