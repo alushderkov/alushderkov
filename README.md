@@ -9,7 +9,7 @@ cause working with tech without a soul is a horror show<br><br>
   * algorithms and data structures, OOP, Git/GitHub  
   * apps: Canva, Figma, Postman, Visio  
   * records management: Word, LaTeX  
-  * English B1<br><br>
+  * English B1/B2<br><br>
 
 &nbsp;&nbsp;&nbsp;[<img src="https://github.com/user-attachments/assets/a895d3e5-f216-4c11-9c1c-ab0dab3f2fa7" alt="HTML" height="80"/>](https://developer.mozilla.org/ru/docs/Web/HTML)&nbsp;&nbsp;
 [<img src="https://github.com/user-attachments/assets/dd564690-d410-4eea-9a03-d768a53458d7" alt="CSS" height="80"/>](https://developer.mozilla.org/ru/docs/Web/CSS)&nbsp;&nbsp;
