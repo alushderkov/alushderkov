@@ -1,7 +1,8 @@
 # Chill with me, so amazing❤️‍🔥
 
-My plans are to make the words *frontend* and *art* equivalent  
-cause working with tech without a soul is a horror show<br><br>
+My plans are to make the words *frontend* and *art* equivalent cause  
+working with tech without a soul is a horror show. And the *backend*  
+will become *elegance  incarnate* – precise, unbreakable, essential<br><br>
 
 ## Expertise
   * frontend: React, TypeScript, JavaScript, HTML, Markdown, CSS (SCSS) 
